@@ -15,10 +15,5 @@ To run this application, you need to have **FFmpeg** installed on your system.
 - **macOS**: `brew install ffmpeg`
 - **Linux**: `sudo apt install ffmpeg`
 
-## 📦 Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
 
